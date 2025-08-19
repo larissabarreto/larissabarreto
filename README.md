@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, everyone! I'm Larissa Barreto
 
-<!--
-**larissabarreto/larissabarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I currently work as a content moderator for a social network while pursuing my dream of a career change.
+- 🌱 I’m currently studying full-stack developer and data analysis.
+- 🤔 I'm looking for help in this new world of programming and data.
+- 💬 Ask me about everything.
+- ⚡ Fun fact: you need to follow me here to find out.
 
-Here are some ideas to get you started:
+##
+ 
+<div> 
+ <a href = "mailto:larissabarreto.engcivil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/larissasantosbarreto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/dendenavidaenamochila" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/dendenavidaenamochila" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/larissasantosbarreto" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://https://github.com/larissabarreto">
+  <img height="180cm src="https://github-readme-stats.vercel.app/api?username=larissabarreto&show_icons=true&theme=dar&include_all_commits=truecount_private=true"/>
+  <img height="180cm src="https://github-readme-stats.vercel.app/api/top-langs//username=larissabarreto&layout=compact&langs_count=16&theme=dracula"/>
+</div> 
